@@ -11,9 +11,9 @@ module.exports = {
     './client/reduxstagram'
   ],
   output: {
-    path: path.join(__dirname, 'dist'),
+    path: path.join(__dirname, 'static'),
     filename: 'bundle.js',
-    publicPath: '/'
+    publicPath: '/static/'
   },
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
@@ -25,12 +25,12 @@ module.exports = {
     {
       test: /\.js$/,
       loaders: ['babel'],
-      include: path.join(__dirname, 'client')
+      include: path.join(__dirname, 'static')
     },
     // CSS
     { 
       test: /\.styl$/, 
-      include: path.join(__dirname, 'client'),
+      include: path.join(__dirname, 'static'),
       loader: 'style-loader!css-loader!stylus-loader'
     }
     ]
