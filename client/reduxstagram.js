@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {render} from 'react-dom';
+import ReactDOM from 'react-dom';
 
 // Import css
 import css from './styles/style.styl';
@@ -26,4 +26,4 @@ const router = (
   </Provider>
 )
 
-render(<App/>, document.getElementById('root'));
+ReactDOM.render(router, document.getElementById('root'));
