@@ -19,7 +19,7 @@ const router = (
   <Provider store={store}>
     <Router history={history}>
       <Route path="/reduxstagram/" component={App}>
-        <IndexRoute component={PhotoGrid}></IndexRoute>
+        <Route component={PhotoGrid}></Route>
         <Route path="/view/:postId" component={Single}></Route>
       </Route>
     </Router>
