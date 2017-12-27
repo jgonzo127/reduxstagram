@@ -21,13 +21,6 @@ const posts = [
       "display_src":"https://scontent.cdninstagram.com/hphotos-xpf1/t51.2885-15/e35/923995_1704188643150533_1383710275_n.jpg"
    },
    {
-      "code":"BAPIPRjQce9",
-      "caption":"Making baby pancakes for one early rising baby. ☕️🍴",
-      "likes":47,
-      "id":"1157179863266871229",
-      "display_src":"https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e35/12407480_1654828594805097_152207166_n.jpg"
-   },
-   {
       "code":"-hZh6IQcfN",
       "caption":"New Stickers just came in. I'll do another mailing in a few weeks if you want some. #javascript",
       "likes":66,
@@ -36,7 +29,7 @@ const posts = [
    },
    {
       "code":"-B3eiIwcYV",
-      "caption":"Tacos for breakfast. I love you Austin. 🇺🇸",
+      "caption":"Tacos for breakfast!",
       "likes":33,
       "id":"1117418173361145365",
       "display_src":"https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e35/11917950_927755223968499_1198055371_n.jpg"
@@ -54,20 +47,6 @@ const posts = [
       "likes":40,
       "id":"1152964002473690553",
       "display_src":"https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/e35/1516572_445736812276082_2116173059_n.jpg"
-   },
-   {
-      "code":"_4jHytwcUA",
-      "caption":"2015 can be summed up with one baby and a many lines of code. And sometimes a coding baby. 👶🏼⌨",
-      "likes":62,
-      "id":"1150824171912152320",
-      "display_src":"https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/e35/10723795_1149927178351091_1859033096_n.jpg"
-   },
-   {
-      "code":"_zbaOlQcbn",
-      "caption":"Lekker Chocoladeletter",
-      "likes":52,
-      "id":"1149382879529256679",
-      "display_src":"https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/e35/12346073_1035047523184672_768982339_n.jpg"
    },
    {
       "code":"_rmvQfQce8",
@@ -126,13 +105,6 @@ const posts = [
       "display_src":"https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/12331333_1650987978502155_1162510634_n.jpg"
    },
    {
-      "code":"-pjx-gQcVi",
-      "caption":"My baby and me. Thanks to @bearandsparrow for this one.",
-      "likes":81,
-      "id":"1128590547628442978",
-      "display_src":"https://scontent.cdninstagram.com/hphotos-xtf1/t51.2885-15/e35/12298962_863814057068027_460827278_n.jpg"
-   },
-   {
       "code":"-oTZ0zQcWt",
       "caption":"It's too early. Send coffee.",
       "likes":81,
@@ -140,32 +112,11 @@ const posts = [
       "display_src":"https://scontent.cdninstagram.com/hphotos-xtf1/t51.2885-15/e35/12328347_990748230999662_1512917342_n.jpg"
    },
    {
-      "code":"-mxKQoQcQh",
-      "caption":"They both have figured it out. #lifewithsnickers",
-      "likes":47,
-      "id":"1127804966031967265",
-      "display_src":"https://scontent.cdninstagram.com/hphotos-xtp1/t51.2885-15/e35/12256736_1758525004381641_1136705181_n.jpg"
-   },
-   {
-      "code":"-fasqlQceO",
-      "caption":"Kaitlin decorated the house for the Christmas. So gezellig! #casabos",
-      "likes":46,
-      "id":"1125735850454402958",
-      "display_src":"https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/12277581_1028556737218368_1184190781_n.jpg"
-   },
-   {
       "code":"-VBgtGQcSf",
       "caption":"Trying the new Hamilton Brewery beer. Big fan.",
       "likes":27,
       "id":"1122810327591928991",
       "display_src":"https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/12224456_175248682823294_1558707223_n.jpg"
-   },
-   {
-      "code":"-FpTyHQcau",
-      "caption":"I'm in Austin for a conference and doing some training. Enjoying some local brew with my baby.",
-      "likes":82,
-      "id":"1118481761857291950",
-      "display_src":"https://scontent.cdninstagram.com/hphotos-xpt1/t51.2885-15/e35/11326072_550275398458202_1726754023_n.jpg"
    }
 ];
 
