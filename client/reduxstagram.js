@@ -18,9 +18,9 @@ import store, { history } from './store';
 const router = (
   <Provider store={store}>
     <Router history={history}>
-      <Route path="/reduxstagram/" component={App}>
+      <Route path="/" component={App}>
         <IndexRoute component={PhotoGrid}></IndexRoute>
-        <Route path="/reduxstagram/view/:postId" component={Single}></Route>
+        <Route path="/view/:postId" component={Single}></Route>
       </Route>
     </Router>
   </Provider>
